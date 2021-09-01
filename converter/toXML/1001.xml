@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<source>
+		<filename>1001.tif</filename>
+		<origin>GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>Company/School of team</provider>
+		<author>team name</author>
+		<pluginname>Airplane Detection and Recognition</pluginname>
+		<pluginclass>Detection</pluginclass>
+		<time>2021-07-2021-11</time>
+	</research>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>other</name>
+				<probability>1</probability>
+			</possibleresult>
+			<points>
+				<point>247.000000,662.000000</point>
+				<point>364.000000,662.000000</point>
+				<point>364.000000,758.000000</point>
+				<point>247.000000,758.000000</point>
+				<point>247.000000,662.000000</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>ARJ21</name>
+				<probability>1</probability>
+			</possibleresult>
+			<points>
+				<point>256.000000,525.000000</point>
+				<point>362.000000,525.000000</point>
+				<point>362.000000,608.000000</point>
+				<point>256.000000,608.000000</point>
+				<point>256.000000,525.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>
