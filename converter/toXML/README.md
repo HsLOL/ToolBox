@@ -1,1 +1,2 @@
-`write_in_xml.py`文件是将内容写入到xml文件中的代码，主要是提供了写xml文件格式的思路，该xml中的内容参考的是1001.xml中的内容;
+- `write_in_xml_v1.py`文件是将内容写入到xml文件中的代码，主要是提供了写xml文件格式的思路，输出的xml文件是write_in_xml_v1.xml;  
+- `write_in_xml_v2.py`文件是将内容写入到xml文件中的第二版代码，主要是提供了另外一种写xml文件格式的思路，输出的xml文件是write_in_xml_v2.xml;
