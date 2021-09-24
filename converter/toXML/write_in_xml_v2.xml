@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<source>
+		<filename>114.tif</filename>
+		<origin>GF3</origin>
+	</source>
+	<research>
+		<version>1.0</version>
+		<provider>Company/School of team</provider>
+		<author>kong tian shen ying</author>
+		<pluginname>Airplane Detection and Recognition</pluginname>
+		<pluginclass>Detection</pluginclass>
+		<time>2021-07-2021-11</time>
+	</research>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A320/321</name>
+				<probability>0.48113831877708435</probability>
+			</possibleresult>
+			<points>
+				<point>0.0,66.00424138410534</point>
+				<point>92.22969315685256,66.00424138410534</point>
+				<point>92.22969315685256,174.66915353594354</point>
+				<point>0.0,174.66915353594354</point>
+				<point>0.0,66.00424138410534</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+				<probability>0.3598882853984833</probability>
+			</possibleresult>
+			<points>
+				<point>62.13316112618543,855.2676519238772</point>
+				<point>191.72275733570322,855.2676519238772</point>
+				<point>191.72275733570322,979.2288028828478</point>
+				<point>62.13316112618543,979.2288028828478</point>
+				<point>62.13316112618543,855.2676519238772</point>
+			</points>
+		</object>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A220</name>
+				<probability>0.2723221480846405</probability>
+			</possibleresult>
+			<points>
+				<point>52.20955491065979,731.7234053611755</point>
+				<point>163.92006516456604,731.7234053611755</point>
+				<point>163.92006516456604,844.3514037132263</point>
+				<point>52.20955491065979,844.3514037132263</point>
+				<point>52.20955491065979,731.7234053611755</point>
+			</points>
+		</object>
+	</objects>
+</annotation>
