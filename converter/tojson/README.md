@@ -1,1 +1,2 @@
-txt2json.py脚本是将所有txt文件中的内容全部写入到一个json文件中，并不是一个txt文件对应一个json文件，而是所有的txt内容都整合到了一个json文件中.
+- `xml2json_mmdet.py`适用于目标真值以xml文件的形式存储，并将真值的存储形式向mmdet框架需要的格式进行转换,便于之后重新注册所需要的dataset类  
+- `xml2json_SSDD.py`适用于SSDD数据集的格式转换,将SSDD的xml真值文件转换到一个.json文件中
