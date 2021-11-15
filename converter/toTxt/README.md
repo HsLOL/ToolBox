@@ -1,0 +1,2 @@
+- `xml2txt_SSDD.py`文件用于将SSDD数据集中的xml真值文件转换成txt形式的真值文件  
+- `xml2txt_AIRSARShip1.0.py`文件用于将AIRSARShip-1.0的xml真值文件转换成txt真值文件,便于用DOTA_devkit中的切图代码对图片进行裁剪
